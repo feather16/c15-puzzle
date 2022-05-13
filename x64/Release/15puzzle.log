@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\tmp\15puzzle\def.hpp(72,28): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\tmp\15puzzle\Main.cpp(15,9): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\tmp\15puzzle\Main.cpp(15,6): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+C:\tmp\15puzzle\Main.cpp(77,7): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\tmp\15puzzle\Main.cpp(76,22): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\tmp\15puzzle\Main.cpp(129,44): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  2 of 227 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  15puzzle.vcxproj -> C:\tmp\15puzzle\x64\Release\15puzzle.exe
