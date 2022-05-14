@@ -7,3 +7,6 @@ WASDで移動、Enterで決定。
 プログラミングを始めて間もない頃に書いたコードなので、読みにくいかもしれません。
 
 <img src="image/C15Puzzle.png" width=400>
+
+# 実行
+`run.bat`
