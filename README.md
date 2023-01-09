@@ -1,4 +1,4 @@
-# C15Puzzle
+# c15-puzzle
 GUIの15パズルです。
 3×3から10×10まで選べます。
 WASDで移動、Enterで決定。
